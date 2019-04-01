@@ -5,6 +5,7 @@ and calculate the minimum RAM size required to run this Java program.
 
 //Sample code here 
 Java program space complexity (method and static variable) .
+
 public class Test
 {
 static int x = 11; 4bytes
@@ -25,4 +26,5 @@ Test t = new Test(); 4+8 =12 bytes
 t.method1(5);
 }
 }
+
 So, the complexity of this Java program is: 28 bytes.
