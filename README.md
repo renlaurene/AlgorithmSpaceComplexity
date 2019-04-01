@@ -5,7 +5,9 @@ and calculate the minimum RAM size required to run this Java program.
 
 //Sample code here  Java program space complexity (method and static variable) .
 
+
 public class Test {
+
     static int x = 11; //4bytes
     private int y = 33; // 4bytes
     
