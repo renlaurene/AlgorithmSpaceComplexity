@@ -11,7 +11,8 @@ public class Test {
     
 public void method1(int x) {
      // 12+4 = 16 bytes
-    Test t = new Test();   //16+12 = 28 bytes
+    Test t = new Test();  
+    //16+12 = 28 bytes
     this.x = 22;
     y = 44;
     
